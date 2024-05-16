@@ -21,7 +21,7 @@ function Navbar() {
       <div>
         <div
           className={`navbar bg-slate-400 fixed top-0 left-0 right-0 z-50 ${sticky
-            ? "sticky-navbar shadow-md bg-slate-600 duration-300 translate-all ease-in-out"
+            ? "sticky-navbar shadow-md bg-slate-600 duration-300 translate-all ease-in-out text-white "
             : ""
             }`}
         >
@@ -94,7 +94,7 @@ function Navbar() {
               </li>
             </ul>
           </div>
-          <div className="navbar-end">
+          <div className="navbar-end pr-4">
             <a href="https://cuhcodingclub.vercel.app/" className="btn">Get Started</a>
           </div>
         </div>

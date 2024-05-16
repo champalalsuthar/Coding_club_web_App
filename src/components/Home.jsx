@@ -40,7 +40,7 @@ function Home() {
           <div className="flex justify-center items-center text-center md:mt-[22%] md:mr-5 md:ml-5 mt-12 mr-4 ml-4 mb-12">
 
 
-            <p className='text-balance break-all'>  cuh coding club is a group of students working together with patience and enthusiasm to create something Ctrl + N. Anyone who is passionate about exploring the technologies or want to learn something new can join the club. We believe that learning together is fun. Along with academic knowledge, various skills are there, a student should have. We are here for you to introduce all those things and build your personality full with require skills. </p>
+            <p className='text-balance break-all px-8'>  cuh coding club is a group of students working together with patience and enthusiasm to create something Ctrl + N. Anyone who is passionate about exploring the technologies or want to learn something new can join the club. We believe that learning together is fun. Along with academic knowledge, various skills are there, a student should have. We are here for you to introduce all those things and build your personality full with require skills. </p>
 
           </div>
         </div>
@@ -59,7 +59,7 @@ function Home() {
           <div className="flex justify-center items-center text-center md:mt-[22%] md:mr-5 md:ml-5 mt-12 mr-4 ml-4 mb-12">
 
 
-            <p className='text-balance break-all'>  cuh coding club  is a group of students working together with patience and enthusiasm to create something Ctrl + N. Anyone who is passionate about exploring the technologies or want to learn something new can join the club. We believe that learning together is fun. Along with academic knowledge, various skills are there, a student should have. We are here for you to introduce all those things and build your personality full with require skills. </p>
+            <p className='text-balance break-all p-8'>  cuh coding club  is a group of students working together with patience and enthusiasm to create something Ctrl + N. Anyone who is passionate about exploring the technologies or want to learn something new can join the club. We believe that learning together is fun. Along with academic knowledge, various skills are there, a student should have. We are here for you to introduce all those things and build your personality full with require skills. </p>
 
           </div>
         </div>
@@ -81,7 +81,16 @@ function Home() {
       </div>
       <div className='flex justify-center m-3'>
 
-        <button className=" border-blue-400 border-[4px] rounded-sm px-3 py-2 bg-blue-700 hover:scale-105 text-white text-lg font font-semibold" onClick={() => navigate('/gallery')} >View More</button>
+        <button className=" border-blue-400 border-[4px] rounded-lg px-3 py-2 bg-blue-700 hover:scale-105 text-white text-lg font font-semibold"
+          // onClick={() => navigate('/gallery#')} 
+          onClick={() => {
+            navigate('/gallery');
+            setTimeout(() => {
+              window.scrollTo(0, 0);
+            }, 100);
+          }}
+        >
+          View More</button>
       </div>
     </>
   )
