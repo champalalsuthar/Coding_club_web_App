@@ -11,6 +11,7 @@ function Home() {
   const navigate = useNavigate();
   return (
     <>
+
       <div className=' bg-slate-400 md:px-20 px-4 flex flex-col md:flex-row my-10 mt-[80px]'>
         <div className='w-full md:w-1/2 '>
           <div className=' mt-[80px]
@@ -38,7 +39,7 @@ function Home() {
             <p className='text-balance break-all px-8 text-md text-white font-bold'>  cuh coding club is a group of students working together with patience and enthusiasm to create something Ctrl + N. Anyone who is passionate about exploring the technologies or want to learn something new can join the club. We believe that learning together is fun. Along with academic knowledge, various skills are there, a student should have. We are here for you to introduce all those things and build your personality full with require skills. </p>
           </div>
         </div>
-        <div className=' md:w-[600px] md:h-[450px] w-full  justify-center bg-slate-400 shadow-lg'>
+        <div className=' md:w-[600px] md:h-[450px] w-full justify-center bg-slate-400 shadow-lg'>
           <div className='md:ml-[100px] '>
             <img className=' h-[25rem] w-[35rem] ' src="../../public/CCC.png" />
           </div>
