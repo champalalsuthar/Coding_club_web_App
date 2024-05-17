@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
   return (
-    <div className='bg-slate-400  mt-[110px] md:mt-[80px]'>
+    <div className='bg-slate-300  mt-[80px] '>
       <div className='flex justify-center text-5xl font-bold font'>
         <p>VISI<span className='text-red-400'>ON</span></p>
       </div>
@@ -12,7 +12,6 @@ function About() {
         <div className='w-full md:w-1/2'><img src="../public/CCCUH logo white.png" alt="" /></div>
         <div className='w-full md:w-1/2'><p className='text-xl font-semibold flex  md:mt-[200px] '>“To promote informal learning and foster innovation and invention in technology, with a focus on technologies aimed at contributing positively to the environment and to the society”</p></div>
       </div>
-
     </div>
   )
 }

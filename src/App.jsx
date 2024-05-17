@@ -19,6 +19,7 @@ function App() {
         <Route path='/Achievement' element={<Achievment />} />
       </Routes>
       <Footer />
+      <p className='w-full h-full bg-slate-400 text-center pb-2'>© 2023 Coding Club. All rights reserved.</p>
 
     </>
   )

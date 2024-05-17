@@ -10,7 +10,9 @@ function Achievment() {
       </div>
       <ul className="timeline timeline-vertical">
         <li>
-          <div className="timeline-start timeline-box">sought to enhance transparency, security, and immutability by harnessing the power of blockchain technology. By successfully conducting elections in our college using this innovative system, we not only demonstrated its effectiveness but also earned the distinguished honor of having our achievement registered in the India Book of Records as the first-ever blockchain-based election conducted in India.</div>
+          <div className="timeline-start timeline-box">Inauguration of the Coding Club at Central University of Haryana
+
+            On February 27, 2023, the Central University of Haryana proudly inaugurated its Coding Club, marking a significant milestone in the university's commitment to fostering technological innovation and excellence among its students. The event was graced by the esteemed presence of our Vice Chancellor, Professor Tankeshwar Kumar, whose vision and support have been instrumental in the establishment of this club.</div>
           <div className="timeline-middle">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" /></svg>
           </div>
@@ -21,7 +23,8 @@ function Achievment() {
           <div className="timeline-middle">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" /></svg>
           </div>
-          <div className="timeline-end timeline-box">iMasought to enhance transparency, security, and immutability by harnessing the power of blockchain technology. By successfully conducting elections in our college using this innovative system, we not only demonstrated its effectiveness but also earned the distinguished honor of having our achievement registered in the India Book of Records as the first-ever blockchain-based election conducted in India.c</div>
+          <div className="timeline-end timeline-box">Inauguration of Inter-University Coding Competition at Central University of Haryana
+            The Central University of Haryana is thrilled to announce its first-ever Inter-University Coding Competition, open to all students within our university and those from other institutions. This landmark event, set to be a beacon of coding excellence and innovation, will take place on 29 sep 2023.</div>
           <hr />
         </li>
         <li>
@@ -39,12 +42,13 @@ function Achievment() {
           <div className="timeline-middle">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" /></svg>
           </div>
-          <div className="timeline-end timeline-box">iPhsought to enhance transparency, security, and immutability by harnessing the power of blockchain technology. By successfully conducting elections in our college using this innovative system, we not only demonstrated its effectiveness but also earned the distinguished honor of having our achievement registered in the India Book of Records as the first-ever blockchain-based election conducted in India.one</div>
+          <div className="timeline-end timeline-box">Central University of Haryana hosts a 5-day Machine Learning with Python workshop from April 17-21, 2024. Enhance your skills and earn a certificate of completion. Register now to secure your spot and elevate your machine learning expertise!</div>
           <hr />
         </li>
         <li>
           <hr />
-          <div className="timeline-start timeline-box">Apple Wsought to enhance transparency, security, and immutability by harnessing the power of blockchain technology. By successfully conducting elections in our college using this innovative system, we not only demonstrated its effectiveness but also earned the distinguished honor of having our achievement registered in the India Book of Records as the first-ever blockchain-based election conducted in India.atch</div>
+          <div className="timeline-start timeline-box">Inauguration of Inter-University Coding Competition at Central University of Haryana
+            The Central University of Haryana is thrilled to announce its first-ever Inter-University Coding Competition, open to all students within our university and those from other institutions. This landmark event, set to be a beacon of coding excellence and innovation, will take place on 29 sep 2023.</div>
           <div className="timeline-middle">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="w-5 h-5"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" /></svg>
           </div>

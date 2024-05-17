@@ -70,7 +70,7 @@ function Navbar() {
             </div>
             <img src="../../public/CCC.png" className="w-[4rem] h-[4rem]" />
             <img src="../../public/cuhlogo.png" className="w-[4rem] h-[4rem]" />
-            <a className=" text-2xl font-bold font-serif md: text-center">
+            <a className="hidden md:block text-2xl font-bold font-serif md:text-center">
               CUH Coding Club
             </a>
           </div>
