@@ -1,12 +1,12 @@
 import React from "react";
-
+import image1 from "../../public/gallery/1.jpg";
 function GalleryHome() {
   return (
     <div>
       <div className="pt-4">
         <div className="flex flex-wrap justify-evenly">
           <figure className='sm:h-[320px] md:w-[32%] w-[100%] relative mb-[20px] rounded-lg overflow-hidden transform transition duration-500 hover:scale-75 hover:rotate-12'>
-            <img src="../../public/gallery/1.jpg" />
+            <img src={image1} />
           </figure>
           <figure className='sm:h-[320px] md:w-[32%] w-[100%] relative mb-[20px] rounded-lg overflow-hidden transform transition duration-500 hover:scale-75 hover:rotate-12'>
             <img src="../../public/gallery/2.jpg" />

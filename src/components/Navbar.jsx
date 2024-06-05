@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+import img1 from "../../public/CCC.png";
+import img2 from "../../public/cuhlogo.png";
 
 function Navbar() {
   const [sticky, setSticky] = useState(false)
@@ -68,8 +70,8 @@ function Navbar() {
                 </li>
               </ul>
             </div>
-            <img src="../../public/CCC.png" className="w-[4rem] h-[4rem]" />
-            <img src="../../public/cuhlogo.png" className="w-[4rem] h-[4rem]" />
+            <img src={img1} alt="Description of image" className="w-[4rem] h-[4rem]" />
+            <img src={img2} alt="Description of image" className="w-[4rem] h-[4rem]" />
             <a className="hidden md:block text-2xl font-bold font-serif md:text-center">
               CUH Coding Club
             </a>
